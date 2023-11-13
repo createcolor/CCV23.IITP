@@ -9,11 +9,11 @@ Lec 4. Debayering
 
 ## Homework
 
-This year we will work on Canon 600D reverse engineering. 
+This year we will work on Canon 600D reverse engineering.  
 There is a large published dataset with Canon 600D: https://zenodo.org/records/4153431
 
 
 **Timeline:**
 
-Soft deadline: 21.11
+Soft deadline: 21.11  
 Hard deadline: 28.11
