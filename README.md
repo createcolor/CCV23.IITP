@@ -2,10 +2,10 @@
 This repo for course of color computational photography for bachelors in IITP'23
 
 ## Course program
-Lec 1. Introduction to color
-Lec 2. Introduction to pipeline
-Lec 3. Practical introduction to color 
-Lec 4. Debayering
+Lec 1. Introduction to color  
+Lec 2. Introduction to pipeline  
+Lec 3. Practical introduction to color  
+Lec 4. Debayering  
 
 ## Homework
 
