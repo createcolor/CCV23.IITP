@@ -12,7 +12,7 @@ Lec 5. Denoising + Illumination Estimation + Illumination Compensation + Color s
 Lec 1. Datasets in Computer Vison: Importance, Theoretical background and Typical Problems in Applications  
 Lec 2. ML System Design: Bridging the Gap Between a Vanilla Neural Network and Value for User
 
-## Course scoring:
+## Course scoring
 
 Since schedule of this course was unstable, score will be calculated accorging to wollowing rules
 
