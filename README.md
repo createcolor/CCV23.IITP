@@ -1,4 +1,4 @@
-# CCV23.HSE
+# CCV23.IITP
 This repo for course of color computational photography for bachelors in IITP'23  
 
 ## Course program
